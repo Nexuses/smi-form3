@@ -159,15 +159,7 @@ export default function Home() {
                 </h1>
 
                 <p className="text-base lg:text-base xl:text-[17px] text-gray-700 leading-relaxed">
-                Discover SmiForce's comprehensive guide to choosing the
-                <br />
-                perfect SIEM solution. Learn how to enhance threat detection,
-                <br />
-                improve response times, and optimize security operations.
-                <br />
-                Download the guide to ensure you select the SIEM solution
-                <br />
-                that best fits your organization's needs.
+                  Discover SmiForce's comprehensive guide to choosing the perfect SIEM solution. Learn how to enhance threat detection, improve response times, and optimize security operations. Download the guide to ensure you select the SIEM solution that best fits your organization's needs.
                 </p>
 
                 <p className="text-base lg:text-[17px] xl:text-lg text-gray-700 leading-relaxed">
